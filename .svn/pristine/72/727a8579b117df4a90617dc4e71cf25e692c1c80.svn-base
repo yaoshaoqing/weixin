@@ -1,0 +1,14 @@
+        <include file="./Apps/Admin/View/Weixin/left.tpl" />
+	<div id="right"> 
+	
+</div></div>
+	<div id="bottomDiv"></div>
+</div>
+<script language="javascript">
+$("#test1").toggle(function(){$("#test").slideDown()},function(){$("#test").slideUp()})
+</script>
+<div style="text-align:center;">
+<p>来源：<a href="http://www.mycodes.net/" target="_blank">源码之家</a></p>
+</div>
+</body>
+</html>

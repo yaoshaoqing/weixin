@@ -1,0 +1,73 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div class="t-list" id="t-list"><table><thead><tr class="th" id="float"><th width="90" colspan="1" rowspan="1">车次</th>
+<th width="100" colspan="1" rowspan="1">出发站<br clear="none">
+到达站</th>
+<th width="82" colspan="1" rowspan="1" id="startendtime"><span class="b1" id="s_time" style="cursor: pointer;">出发时间</span><br><span class="b2" id="r_time" style="cursor: pointer;">到达时间</span></th>
+<th width="82" colspan="1" rowspan="1"><span class="b3" id="l_s" style="cursor: pointer;">历时</span>
+</th>
+<th width="49" colspan="1" rowspan="1">商务座</th>
+<th width="49" colspan="1" rowspan="1">特等座</th>
+<th width="49" colspan="1" rowspan="1">一等座</th>
+<th width="49" colspan="1" rowspan="1">二等座</th>
+<th width="49" colspan="1" rowspan="1">高级<br clear="none">
+软卧</th>
+<th width="49" colspan="1" rowspan="1">软卧</th>
+<th width="49" colspan="1" rowspan="1">硬卧</th>
+<th width="49" colspan="1" rowspan="1">软座</th>
+<th width="49" colspan="1" rowspan="1">硬座</th>
+<th width="49" colspan="1" rowspan="1">无座</th>
+<th width="49" colspan="1" rowspan="1">其他</th>
+<th class="last" colspan="1" rowspan="1">备注</th>
+</tr>
+</thead>
+<foreach name="info" item="rs">
+<tr>
+    <td>{$rs.station_train_code}</td><!--车次-->
+    <td>{$rs.start_station_name}<br>{$rs.end_station_name}</td><!--发站站名 and 到站站名-->
+    <td>{$rs.start_time}<br>{$rs.arrive_time}</td><!--出发时间到站时间-->
+    <td>{$rs.lishi}</td><!--历时-->
+    <td>{$rs.swz_num}</td><!--商务座-->
+    <td>{$rs.tz_num}</td><!--特等座-->
+    <td>{$rs.zy_num}</td><!--一等座-->
+    <td>{$rs.ze_num}</td><!--二等座-->
+    <td>{$rs.gr_num}</td><!--高级软卧-->
+    <td>{$rs.rw_num}</td><!--软卧-->
+    <td>{$rs.yw_num}</td><!--硬卧-->
+    <td>{$rs.rz_num}</td><!--软座-->
+    <td>{$rs.yz_num}</td><!--硬座-->
+    <td>{$rs.wz_num}</td><!--无座-->
+    <td>{$rs.qt_num}</td><!--其他-->
+    <td><a href="javascript:" onclick="checkG1234('{$rs.secretStr}','{$rs.start_time}','{$rs.train_no}','{$rs.start_station_telecode}'),'{$rs.end_station_telecode}'">{$rs.buttonTextInfo}</a></td><!--备注-->
+    
+    
+</tr>
+</foreach>
+<tbody id="queryLeftTable"></tbody>
+</table>
+<div class="t-list-bd" id="t-list-bd"><div class="no-ticket" id="no_filter_ticket" style="display: none"><span class="i-no"></span>
+<p><!-- 没有符合筛选条件的车次，请修改筛选条件！<br />您可以<a href="#" id="show_all_query_result">显示全部</a>或<a href="/otsweb/zzzcx/init">使用中转查询功能</a>查询换乘车次。-->
+
+						
+						没有符合筛选条件的车次，请修改筛选条件<br clear="none">
+或<a href="#" id="show_all_query_result" shape="rect">显示全部车次</a>
+！
+					</p>
+</div>
+<div class="no-ticket" id="no_filter_ticket_3" style="display: none"><span class="i-no"></span>
+<p>
+						没有查询到符合条件的车次，5秒后继续查询，请稍后！
+					</p>
+</div>
+<div class="no-ticket" id="no_filter_ticket_4" style="display: none"><span class="i-no"></span>
+<p>
+						没有符合筛选条件的车次，5秒后开始查询备选日期，请稍后！
+					</p>
+</div>
+</div>
+</div>
+    </body>
+</html>

@@ -1,0 +1,803 @@
+[ 2017-02-21T10:31:14+08:00 ] 127.0.0.1 /index.php/admin/login/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.006046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009583s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000552s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002032s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.176721s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.178437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.013322s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015264s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.007838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009033s ]
+
+[ 2017-02-21T10:31:23+08:00 ] 127.0.0.1 /index.php/admin/login/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005054s ]
+
+[ 2017-02-21T10:31:24+08:00 ] 127.0.0.1 /index.php/Admin/weixin/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002496s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000404s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002015s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.121942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.123706s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002095s ]
+
+[ 2017-02-21T10:31:28+08:00 ] 127.0.0.1 /index.php/Admin/weixin/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003674s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000385s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001507s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020805s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000688s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001749s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000961s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002035s ]
+
+[ 2017-02-21T10:31:29+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002892s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000448s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001741s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.046094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047427s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000849s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001146s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002550s ]
+
+[ 2017-02-21T10:31:33+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003602s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000708s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002983s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.026819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001752s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002122s ]
+
+[ 2017-02-21T11:55:01+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.031862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.037013s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.002461s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004719s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.110499s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.112046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.035841s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.037181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.033195s ]
+INFO: [ app_end ] --END-- [ RunTime:0.034894s ]
+
+[ 2017-02-21T11:55:10+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002778s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000405s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001589s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000752s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001937s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001629s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003540s ]
+
+[ 2017-02-21T11:55:20+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002842s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T13:18:48+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.006975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010005s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+NOTIC: [2] mysql_connect():  E:\weixin\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+ERR: �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�
+
+
+[ 2017-02-21T13:39:31+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003758s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.008616s ]
+SQL: SELECT * FROM `access_token`  [ RunTime:0.006228s ]
+
+[ 2017-02-21T13:43:57+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002968s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+NOTIC: [2] mysql_connect():  E:\weixin\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+ERR: �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�
+
+
+[ 2017-02-21T13:44:45+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002942s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004718s ]
+SQL: SELECT * FROM `access_token`  [ RunTime:0.005463s ]
+
+[ 2017-02-21T13:44:49+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004079s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004096s ]
+SQL: SELECT * FROM `access_token`  [ RunTime:0.003900s ]
+
+[ 2017-02-21T13:54:58+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002637s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004812s ]
+SQL: INSERT INTO `access_token` (`access_token`) VALUES ('111') [ RunTime:0.004764s ]
+SQL: SELECT * FROM `access_token`  [ RunTime:0.005765s ]
+
+[ 2017-02-21T14:21:18+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003954s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004574s ]
+SQL: INSERT INTO `access_token` (`access_token`) VALUES ('111') [ RunTime:0.005495s ]
+SQL: SELECT * FROM `access_token`  [ RunTime:0.005969s ]
+
+[ 2017-02-21T14:21:31+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005190s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.003965s ]
+SQL: INSERT INTO `access_token` (`access_token`) VALUES ('111') [ RunTime:0.005309s ]
+SQL: SELECT * FROM `access_token`  [ RunTime:0.003581s ]
+
+[ 2017-02-21T14:22:39+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002601s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.005870s ]
+SQL: SELECT `access_token` FROM `access_token`  [ RunTime:0.006531s ]
+
+[ 2017-02-21T14:24:25+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.072782s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.007444s ]
+SQL: SELECT `access_token` FROM `access_token` LIMIT 1   [ RunTime:0.008022s ]
+
+[ 2017-02-21T14:24:42+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002740s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.007333s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.008003s ]
+
+[ 2017-02-21T15:02:41+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003249s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004869s ]
+SQL: SELECT * FROM `access_token` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.003763s ]
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 67 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&amp;appid=wx5ab9d1507cee70b5&amp;secret=11af08bf4de988949fb2c069a8286e5a): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 67 行.
+SQL: UPDATE `access_token` SET `access_token`=null WHERE ( id=1 ) [ RunTime:0.004739s ]
+SQL: SELECT `access_token` FROM `access_token` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.003997s ]
+
+[ 2017-02-21T15:04:24+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002461s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.005343s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004858s ]
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 68 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&amp;appid=wx5ab9d1507cee70b5&amp;secret=11af08bf4de988949fb2c069a8286e5a): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 68 行.
+SQL: INSERT INTO `access_token` (`access_token`) VALUES (null) [ RunTime:0.007519s ]
+SQL: SELECT `access_token` FROM `access_token` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.005226s ]
+
+[ 2017-02-21T15:06:13+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002704s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004940s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.003325s ]
+SQL: SELECT `access_token` FROM `access_token` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.003823s ]
+
+[ 2017-02-21T15:06:26+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002833s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004733s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.005953s ]
+SQL: SELECT `access_token` FROM `access_token` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.003877s ]
+
+[ 2017-02-21T15:06:27+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002802s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004635s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004652s ]
+SQL: SELECT `access_token` FROM `access_token` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.003547s ]
+
+[ 2017-02-21T15:06:48+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002952s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004339s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004959s ]
+SQL: SELECT `access_token` FROM `access_token` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.005270s ]
+
+[ 2017-02-21T15:06:59+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002605s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004224s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004863s ]
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 69 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&amp;appid=wx5ab9d1507cee70b5&amp;secret=11af08bf4de988949fb2c069a8286e5a): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 69 行.
+
+[ 2017-02-21T15:11:35+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.023778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026111s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.006944s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.006386s ]
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+
+[ 2017-02-21T15:12:24+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002798s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004669s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.005950s ]
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+
+[ 2017-02-21T15:14:38+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002805s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004098s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004858s ]
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+
+[ 2017-02-21T15:14:39+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004110s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004557s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.005664s ]
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+
+[ 2017-02-21T15:18:25+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002576s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004432s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.003661s ]
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+
+[ 2017-02-21T15:18:26+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002689s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.006485s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004527s ]
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+
+[ 2017-02-21T15:18:28+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002458s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.005508s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.005712s ]
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+
+[ 2017-02-21T15:20:36+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003879s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004722s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004989s ]
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&amp;appid=wx5ab9d1507cee70b5&amp;secret=11af08bf4de988949fb2c069a8286e5a): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+
+[ 2017-02-21T15:20:54+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005341s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.006960s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.006511s ]
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&amp;appid=wx5ab9d1507cee70b5&amp;secret=11af08bf4de988949fb2c069a8286e5a): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+
+[ 2017-02-21T15:28:50+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002811s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.005244s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.005122s ]
+NOTIC: [2] strlen() expects parameter 1 to be string, array given E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 71 行.
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&amp;appid=wx5ab9d1507cee70b5&amp;secret=11af08bf4de988949fb2c069a8286e5a): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+
+[ 2017-02-21T15:29:57+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002644s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004547s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004938s ]
+NOTIC: [2] strlen() expects parameter 1 to be string, array given E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 71 行.
+
+[ 2017-02-21T15:30:40+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004181s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004916s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.005681s ]
+NOTIC: [2] strlen() expects parameter 1 to be string, array given E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 71 行.
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+
+[ 2017-02-21T15:50:43+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003475s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.007416s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.006563s ]
+
+[ 2017-02-21T15:52:46+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004442s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T15:56:11+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002936s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T15:56:12+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003743s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T15:56:14+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004878s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T15:56:40+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005082s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T15:56:42+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002871s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T15:57:11+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002663s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T15:57:26+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007811s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T15:58:00+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002474s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T16:00:25+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002869s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T16:00:26+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002341s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T16:01:41+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004363s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T16:02:02+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002553s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T16:02:46+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003854s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T16:04:50+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004574s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T16:05:39+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003060s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+NOTIC: [8] Use of undefined constant CURLOPT_GET - assumed 'CURLOPT_GET' E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+NOTIC: [2] curl_setopt() expects parameter 2 to be long, string given E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 73 行.
+
+[ 2017-02-21T16:09:55+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002991s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+NOTIC: [2] curl_error(): 24 is not a valid cURL handle resource E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+
+[ 2017-02-21T16:11:42+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003532s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+NOTIC: [2] curl_error(): 24 is not a valid cURL handle resource E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+
+[ 2017-02-21T16:11:45+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002536s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+NOTIC: [2] curl_error(): 24 is not a valid cURL handle resource E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+
+[ 2017-02-21T16:11:53+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002478s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000413s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001511s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.195526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.196731s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.036479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.037710s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.009471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011051s ]
+
+[ 2017-02-21T16:11:55+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002853s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001020s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002617s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.022597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024189s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000760s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002488s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000975s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002103s ]
+
+[ 2017-02-21T16:11:56+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004860s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.002613s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004523s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.026035s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000975s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002852s ]
+
+[ 2017-02-21T16:11:57+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002781s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000797s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002310s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019611s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020879s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000719s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001902s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003575s ]
+
+[ 2017-02-21T16:11:57+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002633s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000398s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001562s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000785s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003305s ]
+
+[ 2017-02-21T16:16:24+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002737s ]
+
+[ 2017-02-21T16:16:38+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002534s ]
+
+[ 2017-02-21T16:16:41+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004771s ]
+
+[ 2017-02-21T16:19:17+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005061s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&amp;appid=wx5ab9d1507cee70b5&amp;secret=11af08bf4de988949fb2c069a8286e5a): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+
+[ 2017-02-21T16:19:29+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003978s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T16:20:11+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002615s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&amp;appid=wx5ab9d1507cee70b5&amp;secret=11af08bf4de988949fb2c069a8286e5a): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+
+[ 2017-02-21T16:21:31+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004885s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+NOTIC: [2] file_get_contents(): Unable to find the wrapper &quot;https&quot; - did you forget to enable it when you configured PHP? E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+NOTIC: [2] file_get_contents(https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&amp;appid=wx5ab9d1507cee70b5&amp;secret=11af08bf4de988949fb2c069a8286e5a): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 77 行.
+
+[ 2017-02-21T16:27:03+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003020s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+
+[ 2017-02-21T16:43:27+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.008775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010741s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+NOTIC: [8] Use of undefined constant AppId - assumed 'AppId' E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant AppSecret - assumed 'AppSecret' E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004773s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004464s ]
+
+[ 2017-02-21T16:46:10+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005851s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+NOTIC: [8] Use of undefined constant AppId - assumed 'AppId' E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant AppSecret - assumed 'AppSecret' E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.007262s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.005750s ]
+NOTIC: [8] Use of undefined constant AppId - assumed 'AppId' E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 28 行.
+
+[ 2017-02-21T16:54:25+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004679s ]
+NOTIC: [2] include(./Apps/conf/weixin.php): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 6 行.
+NOTIC: [2] include(./Apps/conf/weixin.php): failed to open stream: No such file or directory E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 6 行.
+NOTIC: [2] include(): Failed opening './Apps/conf/weixin.php' for inclusion (include_path='.;C:\php\pear') E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 6 行.
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+NOTIC: [8] Use of undefined constant AppId - assumed 'AppId' E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 20 行.
+NOTIC: [8] Use of undefined constant AppSecret - assumed 'AppSecret' E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.006737s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004965s ]
+NOTIC: [8] Use of undefined constant AppId - assumed 'AppId' E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 28 行.
+
+[ 2017-02-21T16:55:21+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003535s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004774s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004640s ]
+
+[ 2017-02-21T16:56:09+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002434s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.004673s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.005203s ]
+
+[ 2017-02-21T16:58:24+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002728s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.005092s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004770s ]
+NOTIC: [8] Undefined index: $json E:\weixin\Apps\Admin\Controller\AdminController.class.php 第 28 行.
+SQL: INSERT INTO `access_token` (`access_token`) VALUES (null) [ RunTime:0.005702s ]
+SQL: SELECT `access_token` FROM `access_token` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.004401s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000594s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002625s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.172238s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.175003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.016893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.010023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011452s ]
+
+[ 2017-02-21T16:59:09+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003386s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.005391s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.004162s ]
+SQL: INSERT INTO `access_token` (`access_token`) VALUES ('0fp2ryIeN4bPVSULj-5EeR7Fxu0Yl5-NkQv1X7RKb5hA-ThdjybOpIzDcKgvqSL-9o5tdj9hM_j1Lu2jJ-NCz_yp7xLnPbU7OAQa7SdD_yTq_f0iUgD8BRNr4yuQXLx8KCYhACARJF') [ RunTime:0.004264s ]
+SQL: SELECT `access_token` FROM `access_token` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.006142s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000367s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001568s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.017188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018596s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001051s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004354s ]
+
+[ 2017-02-21T17:01:01+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002597s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.005552s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.006016s ]
+SQL: SELECT `access_token` FROM `access_token` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.004865s ]
+
+[ 2017-02-21T17:01:56+08:00 ] 127.0.0.1 /index.php/Admin/weixin/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002603s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\weixin\ThinkPHP\Common\functions.php 第 1098 行.
+SQL: SHOW COLUMNS FROM `access_token` [ RunTime:0.065356s ]
+SQL: SELECT * FROM `access_token` LIMIT 1   [ RunTime:0.009043s ]
+SQL: SELECT `access_token` FROM `access_token` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.004784s ]
+

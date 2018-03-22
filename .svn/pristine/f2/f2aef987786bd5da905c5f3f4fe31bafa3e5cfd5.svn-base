@@ -1,0 +1,23 @@
+<?php
+// 本类由系统自动生成，仅供测试用途
+namespace Admin\Controller;
+header("Content-type: text/html; charset=utf-8");
+use Think\Controller;
+
+class AdminController extends Controller {
+    
+    public function __construct() {
+        session('[start]'); // 启动session
+        $session = session('username');
+        if(empty($session)){
+            $this->redirect('login/index','请登录，谢谢！');
+            return;
+        }
+        parent::__construct();
+    }
+
+
+
+   
+    
+}

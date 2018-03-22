@@ -1,0 +1,19 @@
+<?php
+// 本类由系统自动生成，仅供测试用途
+namespace Admin\Controller;
+use Think\Controller;
+class WeixinController extends Controller {
+    public function indexAction(){
+    $weixin  = new \Org\Util\WxBizMsgCrypt();
+    $
+    //$weixin  = new \Org\Util\Images();
+    $weixin->WxBizMsgCrypt('hellow2017','D2zdUyOSxzyzOionnKz0HpVla3jc5HS4yKS9W9KoVGd','wx5ab9d1507cee70b5');
+    var_dump($weixin);
+    }
+
+
+    public function weixinAction(){
+
+    	echo "姚少青";
+    }
+}
